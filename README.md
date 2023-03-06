@@ -7,10 +7,14 @@
 修改config.ini内的mysql链接地址
 
 python3.0及以上版本
-
+```
 python house.py
+```
 
-缺什么包就 pip install ***
+缺什么包就 
+```
+pip install ***
+```
 
 大概率缺少(pymysql, leancloud, cryptography)
 
